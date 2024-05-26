@@ -126,19 +126,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-
-    <!-- 项目发布管理 -->
-    <distributionManagement>
-        <repository>
-            <id>releases</id>
-            <url>https://devnexus.trytryc.com/nexus/content/repositories/releases/</url>
-        </repository>
-
-        <snapshotRepository>
-            <id>snapshots</id>
-            <url>https://devnexus.trytryc.com/nexus/content/repositories/snapshots/</url>
-        </snapshotRepository>
-    </distributionManagement>
-
+    
 
 </project>
