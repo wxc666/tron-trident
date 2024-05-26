@@ -89,6 +89,11 @@
             </dependency>
             <dependency>
                 <groupId>com.google.protobuf</groupId>
+                <artifactId>protobuf-java</artifactId>
+                <version>3.25.0</version>
+            </dependency>
+            <dependency>
+                <groupId>com.google.protobuf</groupId>
                 <artifactId>protobuf-java-util</artifactId>
                 <version>3.25.0</version>
             </dependency>
@@ -126,6 +131,6 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
-    
+
 
 </project>
